@@ -10,3 +10,13 @@
 
 -----
 **(～o▔▽▔)～o o～(▔▽▔o～)**
+
+## 高校GitHub开源资源
+[清华大学](https://github.com/Salensoft/thu-cst-cracker)|
+[浙江大学](https://github.com/QSCTech/zju-icicles)|
+[上海交通大学](https://github.com/kxxwz/SJTU-Courses)|
+[北京大学](https://github.com/lib-pku/libpku)|
+[同济大学](https://github.com/TJ-CSCCG/TJCS-Course)
+
+--------
+### 感谢！！！
